@@ -4,12 +4,24 @@
 
 Now shortcuts are easily available with Alt+Shift+K (try not to Ctrl+Shift+K with muscle memory) or via the Tools menu (Keyboard Shortcuts Help). They are also listed [here](https://support.posit.co/hc/en-us/articles/200711853-Keyboard-Shortcuts-in-the-RStudio-IDE). Nonetheless, I am using this space for my go-to, most useful ones (Windows only).
 
+### Execution
+
 Render: Ctrl+Shift+K  
 Clear console: Ctrl+L  
+Run beginning to line: Ctrl+Alt+B
+
+### Navigation
 
 Next tab: Ctrl+Tab  
 Previous Tab: Ctrl+Shift+Tab  
 Can also Ctrl+Shift+.[period] and then arrow keys
+
+### Content
+
+Section header: Ctrl+Shift+R
+R chunk: Ctrl+Alt+I
+
+
 
 
 
