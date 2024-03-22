@@ -1,0 +1,15 @@
+# Basics
+
+## Shortcuts
+
+Now shortcuts are easily available with Alt+Shift+K (try not to Ctrl+Shift+K with muscle memory) or via the Tools menu (Keyboard Shortcuts Help). They are also listed [here](https://support.posit.co/hc/en-us/articles/200711853-Keyboard-Shortcuts-in-the-RStudio-IDE). Nonetheless, I am using this space for my go-to, most useful ones (Windows only).
+
+Render: Ctrl+Shift+K  
+Clear console: Ctrl+L  
+
+Next tab: Ctrl+Tab  
+Previous Tab: Ctrl+Shift+Tab  
+Can also Ctrl+Shift+.[period] and then arrow keys
+
+
+

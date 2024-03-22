@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto Pearls",
+    "section": "",
+    "text": "Preface\nThis is a summary of some tips and tricks for using Quarto. It is a work in progress and I’ll just be adding to it as and when things come up. The function is to capture the things that I forgot how to do and had to Google, plus new (to me) things as I learn them, to save time RE: repeated Googles in the future.\nIt’s written from the perspective of using RStudio IDE on a Windows platform. Project was initiated with the following and using {renv}:\n\nQuarto 1.4.551\nRStudio 2023.12.1+402 “Ocean Storm”\nWindows 10 Enterprise, Version 22H2",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "basics.html",
+    "href": "basics.html",
+    "title": "3  Basics",
+    "section": "",
+    "text": "3.1 Shortcuts\nNow shortcuts are easily available with Alt+Shift+K (try not to Ctrl+Shift+K with muscle memory) or via the Tools menu (Keyboard Shortcuts Help). They are also listed here. Nonetheless, I am using this space for my go-to, most useful ones (Windows only).\nRender: Ctrl+Shift+K\nClear console: Ctrl+L\nNext tab: Ctrl+Tab\nPrevious Tab: Ctrl+Shift+Tab\nCan also Ctrl+Shift+.[period] and then arrow keys",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Basics</span>"
+    ]
+  }
+]
